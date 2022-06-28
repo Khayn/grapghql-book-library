@@ -4,13 +4,17 @@
   "description": "GraphQL Book Library",
   "main": "index.js",
   "scripts": {
-    "start" : "node index.js",
-    "dev" : "nodemon index.js",
+    "start": "node index.js",
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "khayn",
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.13"
+  },
+  "dependencies": {
+    "got": "^12.1.0",
+    "package-json": "^8.1.0"
   }
 }
