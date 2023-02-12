@@ -11,10 +11,10 @@
   "author": "khayn",
   "license": "MIT",
   "devDependencies": {
-    "nodemon": "^2.0.13"
+    "nodemon": "^2.0.20"
   },
   "dependencies": {
-    "got": "^12.1.0",
+    "got": "^12.5.3",
     "package-json": "^8.1.0"
   }
 }
